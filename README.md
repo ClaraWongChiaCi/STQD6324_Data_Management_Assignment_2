@@ -1,4 +1,4 @@
-## Project Overview
+## Overview
 This study analyzes the MovieLens 100K dataset using Apache Spark and Apache Cassandra on Google Cloud Platform. The pipeline loads raw MovieLens data, performs five analytical tasks using Spark DataFrames, stores the results in Cassandra and validates the outputs by reading the data back from Cassandra.
 
 ## System Requirement
