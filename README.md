@@ -37,4 +37,4 @@ After each analytical task, the processed DataFrame is written into Apache Cassa
 The validation outputs are displayed within the notebook.
 
 ## References
-MovieLens 100K Dataset. (2021, March 2). GroupLens. https://grouplens.org/datasets/movielens/100k/
+Harper, F. M., & Konstan, J. A. (2015). The MovieLens datasets. ACM Transactions on Interactive Intelligent Systems, 5(4), 1–19. https://doi.org/10.1145/2827872
